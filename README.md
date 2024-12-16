@@ -3,7 +3,7 @@ Image Inpainting System by using Django-python framework.
 
 Project Objectives: 
 
-1. This project aims to use advanced techniques to fill the missing parts of an image 
+1.This project aims to use advanced techniques to fill the missing parts of an image 
 using deep learning methods.
 
 2.Image Inpainting is the process of reconstructing or retouching an image. It has a 
